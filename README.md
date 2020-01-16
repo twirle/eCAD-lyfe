@@ -1,7 +1,7 @@
 # eCAD-lyfe
 functional e-commerce application in php
 
-<b>Features</b>
+####Features
 Membership
 Registration
 Product Catalog
